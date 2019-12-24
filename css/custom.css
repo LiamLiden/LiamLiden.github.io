@@ -40,6 +40,18 @@ body, h1, h2, h3, h4, h5, h6 {
     transform: rotate(90deg);
 }
 
+.left .right {
+  width: 100%
+}
+@media (min-width: 768px) {
+  .left{
+    width: 35%
+  }
+  .right{
+    width: 65%
+  }
+}
+
 .card-columns {
     -webkit-column-count: 1;
     -moz-column-count: 1;
