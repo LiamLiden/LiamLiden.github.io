@@ -15,13 +15,13 @@ body {
 .jumbotron {
     padding: 2rem 1rem;
     margin-bottom: 2rem;
-    background: none;
+    background: rgba(0, 0, 0, 0.7);
     border-radius: 0.3rem;
 }
 
 .jumbotron h1{
     color: #fff;
-    font-family: 'Comfortaa'
+    font-family: 'Comfortaa';
 }
 
 .jumbotron p{
