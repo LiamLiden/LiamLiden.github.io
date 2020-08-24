@@ -1,7 +1,7 @@
 {
-  "name": "liamliden_github_io",
+  "name": "liamliden.github.io",
   "version": "1.0.0",
-  "description": "Liam Liden's personal website for storing resume and project information",
+  "description": "n: Liam Liden's personal website.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,17 +11,17 @@
     "url": "git+https://github.com/LiamLiden/LiamLiden.github.io.git"
   },
   "keywords": [
-    "resume"
+    "LiamLiden",
+    "Liam",
+    "Liden",
+    "Website",
+    "Personal",
+    "Resume"
   ],
   "author": "Liam Liden",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LiamLiden/LiamLiden.github.io/issues"
   },
-  "homepage": "https://github.com/LiamLiden/LiamLiden.github.io#readme",
-  "dependencies": {
-    "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
-    "popper.js": "^1.15.0"
-  }
+  "homepage": "https://github.com/LiamLiden/LiamLiden.github.io#readme"
 }
